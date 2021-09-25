@@ -1,4 +1,8 @@
-# Virtual Machine 🍁
+Žádný Stress
+
+
+
+# Virtual Machine
 > **[ Windows, MacOS, Linux ]  [ CPU 3core - 7GB Ram - 256 SSD ]**     
 > ## Windows 10: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/TranCongVinh/VPS/blob/main/.github/workflows/Windows10.yml) | MacOS: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/TranCongVinh/VPS/blob/main/.github/workflows/MacOS.yml) | Linux Desktop: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/TranCongVinh/VPS/blob/main/.github/workflows/Linux-Desktop.yml) | Linux SSH: [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/TranCongVinh/VPS/blob/main/.github/workflows/Linux-ssh.yml) 
 <br>
